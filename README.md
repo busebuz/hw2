@@ -1,6 +1,8 @@
 P.S
 I don't know that we can't use R with Jupyter -or maybe that's my problem because I couldn't use them together- so instead, I use R markdown. Hope that's OK.
 
+https://github.com/busebuz/hw2/blob/master/hw2_markdown.html
+
 # hw2
 Generative models
 
